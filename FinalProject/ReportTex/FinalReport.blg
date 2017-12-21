@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: FinalReport.aux
+The style file: model1-num-names.bst
+Database file #1: OptimalParametrization.bib
+You've used 7 entries,
+            2616 wiz_defined-function locations,
+            622 strings with 5728 characters,
+and the built_in function-call counts, 3768 in all, are:
+= -- 284
+> -- 163
+< -- 3
++ -- 65
+- -- 54
+* -- 451
+:= -- 594
+add.period$ -- 9
+call.type$ -- 7
+change.case$ -- 53
+chr.to.int$ -- 7
+cite$ -- 7
+duplicate$ -- 243
+empty$ -- 240
+format.name$ -- 73
+if$ -- 666
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 57
+newline$ -- 35
+num.names$ -- 28
+pop$ -- 59
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 72
+stack$ -- 0
+substring$ -- 161
+swap$ -- 205
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 57
+warning$ -- 0
+while$ -- 27
+width$ -- 0
+write$ -- 92
